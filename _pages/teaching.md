@@ -17,9 +17,12 @@ As a PhD candidate in Biomedical Engineering, I have had the opportunity to teac
 
 ## A1. Designing and Planning Learning Activities
 
-I had the opportunity to design and plan learning activities for BME 702S: BME Teaching Seminar. The two teaching assistants for this course were responsible for coordinating major course activities, including developing the syllabus, preparing and delivering lectures, scheduling guest lectures, and designing assignments.
+I had the opportunity to design and plan learning activities for BME 702S: BME Teaching Seminar, a course designed to prepare new Biomedical Engineering teaching assistants for their first teaching roles. As one of two teaching assistants, I helped coordinate the major components of the course, including developing the syllabus, preparing and delivering lectures, scheduling guest speakers, and designing assignments.
 
-This experience helped me understand how effective course design requires alignment between learning objectives, instructional activities, assessments, and student needs. Working collaboratively with the other teaching assistant also gave me experience coordinating course logistics and creating a cohesive learning experience across the semester.
+In planning the course, I drew on my own experiences as a first-time teaching assistant to anticipate the questions, concerns, and challenges that new TAs might encounter. I also consulted online resources about common challenges faced by first-time teaching assistants to supplement my personal experience and broaden my understanding of their potential needs (K1, V3). My co-TA and I then brainstormed an appropriate sequence of topics and learning activities for the ten class meetings. This process led us to develop guest lectures focused on practical teaching challenges, as well as Socratic-seminar-style discussions that encouraged participants to reflect on and engage critically with their own teaching experiences (V5).
+
+We used these discussions and activities to develop a cohesive, progressively structured syllabus that moved from foundational teaching principles to practical strategies that participants could apply in their own classrooms. This experience strengthened my understanding of the importance of aligning learning objectives, instructional activities, and assessments with the needs of learners. It also gave me valuable experience collaborating with another instructor, coordinating course logistics, and designing a coherent learning experience across an academic term (V5).
+
 
 ## A2. Teaching and Supporting Learners
 
