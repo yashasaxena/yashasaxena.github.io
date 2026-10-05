@@ -35,7 +35,8 @@ We used these discussions and activities to develop a cohesive, progressively st
 
 ## A3. Assessing and Providing Feedback
 
-Grading engineering assignments
+Engineering assignments can be challenging to assess consistently because they are often lengthy, include multiple components, and require students to integrate several skills. Design projects are particularly complex because they involve evaluating multicomponent systems against established design requirements. For this reason, I prioritize developing holistic rubrics that clearly define performance expectations and anticipate common student errors (K5, V2).
+Before grading, I review the assignment as a whole and develop criteria that distinguish the ideal solution from common pitfalls. I then grade one section or component across all students before moving to the next. This process allows me to apply the criteria consistently and identify potential variation in my grading. I also organize scores and comments in a spreadsheet, documenting the reason for each deduction in relation to the rubric. Finally, I provide these annotations with students’ grades so that they understand how their work was evaluated and how they can improve. This structured approach promotes fairness, transparency, and meaningful feedback for learning (V1, V2, K3, K5).
 <!-- Add your experience grading assignments, reviewing student work, or providing feedback here. -->
 
 ## A4. Mentoring and Guiding Learners
