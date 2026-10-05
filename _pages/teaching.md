@@ -35,6 +35,7 @@ We used these discussions and activities to develop a cohesive, progressively st
 
 ## A3. Assessing and Providing Feedback
 
+Grading engineering assignments
 <!-- Add your experience grading assignments, reviewing student work, or providing feedback here. -->
 
 ## A4. Mentoring and Guiding Learners
@@ -43,6 +44,7 @@ We used these discussions and activities to develop a cohesive, progressively st
 
 ## A5. Engaging in Professional Development
 
+I am currently pursuing Duke University’s Certificate in College Teaching to develop formal pedagogical knowledge alongside my teaching experiences as a PhD student and teaching assistant (K1). As part of the certificate, I have completed coursework in teaching methods, observed experienced instructors, and participated in Teaching Triangles, in which peers observe my teaching and provide structured feedback (K3, V5). These activities have encouraged me to critically reflect on my teaching practices, identify areas for improvement, and incorporate evidence-informed strategies into my future teaching (V3, K3).
 <!-- Add your experience with Teaching Triangles, the Certificate for College Teaching, or other professional-development activities here. -->
 
 <!-- {% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
