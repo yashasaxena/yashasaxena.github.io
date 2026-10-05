@@ -31,6 +31,10 @@ We used these discussions and activities to develop a cohesive, progressively st
 
 ## A2. Teaching and Supporting Learners
 
+A2. Teaching and Supporting Learners
+As a teaching assistant for BME 244L: Quantitative Physiology and Biostatistics, I taught foundational statistics concepts during weekly discussion sections. These sessions prepared students to analyze physiological data collected in their laboratory exercises and apply statistical reasoning to more advanced questions addressed in lectures and assessments.
+To prepare each session, I first reviewed the relevant material and consulted multiple instructional resources, including videos demonstrating different approaches to explaining the concept (K2, K4). I then synthesized these perspectives into a lesson plan and presentation that reflected my own teaching style while emphasizing the level of understanding expected of the students. I also anticipated common questions and misconceptions and prepared explanations and examples in advance (K1, K2).
+This preparation allowed me to respond effectively to students’ questions and adjust my explanations during class. By presenting concepts in multiple ways and connecting them to the students’ laboratory data, I supported their ability to move from memorizing statistical procedures to applying them in a physiological context (V2, K1, K2).
 <!-- Add your experience leading lectures, facilitating discussions, holding office hours, or supporting students here. -->
 
 ## A3. Assessing and Providing Feedback
@@ -41,6 +45,9 @@ Before grading, I review the assignment as a whole and develop criteria that dis
 
 ## A4. Mentoring and Guiding Learners
 
+As a PhD student, I have mentored undergraduates completing independent study projects related to my dissertation research. Although these projects contribute to the broader goals of my research program, each student develops ownership of a specific subproject and presents and writes about their work at the end of the semester. I tailor my mentoring to gradually build students’ technical independence and confidence (V1, K1).
+When teaching a new experimental procedure, I first have students observe me once or twice. I then ask them to perform the procedure while I provide guidance, followed by independent practice. Afterward, we discuss how the procedure went, identify challenges, and address any remaining questions. This gradual release of responsibility allows students to develop the skills and confidence needed to work through complex experimental steps independently (K1, K2).
+I also encourage students to develop their own research questions and experimental plans through literature review and consideration of the broader project goals. I review their proposed plans, help them identify feasible approaches, and work with them to create an experimental timeline. Once they have collected data, I guide them in presenting their findings through scientific presentations and posters. Through this process, students gain experience not only with experimental methods but also with research planning, project management, scientific communication, and ownership of their work (V2, K2).
 <!-- Add your experience mentoring undergraduate researchers or engineering design students here. -->
 
 ## A5. Engaging in Professional Development
