@@ -56,7 +56,7 @@ cv:
 
     Teaching Experience:
       - company: Duke University
-        position: Teaching Assistant, BME 254L: MedTech Prototyping Skills
+        position: "Teaching Assistant, BME 254L: MedTech Prototyping Skills"
         location: Durham, NC
         start_date: "2026-08"
         end_date: Present
@@ -66,7 +66,7 @@ cv:
           - "Provided technical support for medical-device projects during class and laboratory sections"
 
       - company: Duke University
-        position: Teaching Assistant, BME 728–729S: BME TA Seminar I & II
+        position: "Teaching Assistant, BME 728–729S: BME TA Seminar I & II"
         location: Durham, NC
         start_date: "2024-08"
         end_date: "2025-12"
@@ -78,7 +78,7 @@ cv:
           - "Coordinated weekly meals within an allocated budget to support participation and community-building during seminar sessions"
 
       - company: Duke University
-        position: Teaching Assistant, BME 590L: Machine Learning in Pharmacology
+        position: "Teaching Assistant, BME 590L: Machine Learning in Pharmacology"
         location: Durham, NC
         start_date: "2023-08"
         end_date: Present
@@ -88,7 +88,7 @@ cv:
           - "Assessed final projects in which students proposed and implemented original machine-learning models to address pharmacological research questions"
 
       - company: Duke University
-        position: Teaching Assistant, BME 244L: Quantitative Physiology with Biostatistical Applications
+        position: "Teaching Assistant, BME 244L: Quantitative Physiology with Biostatistical Applications"
         location: Durham, NC
         start_date: "2022-08"
         end_date: Present
