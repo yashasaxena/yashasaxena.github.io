@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: Teaching statement, courses
 nav: true
-nav_order: 6
+nav_order: 2
 calendar: true
 ---
 
@@ -13,12 +13,6 @@ calendar: true
 ## Context Statement
 I am a fifth-year PhD candidate in Biomedical Engineering at Duke University, where my research examines how microarchitectural variation in tissue-engineering materials influences cell behavior. This work has provided interdisciplinary training in materials science, computational biology, computer vision, microfluidics, mammalian cell culture, and fluid-dynamics simulation. In addition to my PhD, I hold an MS in Mechanical Engineering and Materials Science.
 I have served as a teaching assistant for BME 244L: Quantitative Physiology and Biostatistics, BME 590L: Machine Learning in Pharmacology, and BME 254L: Medtech Prototyping Skills. Through these roles, I have mentored undergraduate and graduate students in computational coursework, engineering design, and life-science laboratory methods. Drawing on this interdisciplinary background, I am particularly interested in teaching courses focused on computational analysis of biological systems and engineering design. In these courses, I hope to help students integrate concepts from multiple fields to develop products and systems that address clearly defined clinical and user needs.
-
-## Teaching Philosophy
-
-My philosophy of engineering education has been shaped by both my academic experiences and the practical challenges I encountered during five years in industry. I aim to equip students with the skills needed to address real-world biomedical engineering problems through project-based learning. At the same time, I use the academic environment to cultivate curiosity, encourage thoughtful investigation, and develop a strong theoretical foundation.
-
-As a PhD candidate in Biomedical Engineering, I have had the opportunity to teach and mentor undergraduate students through engineering and science courses, independent projects, and design experiences. The following sections use the UK Professional Standards Framework (PSF) to describe my teaching approach and experiences.
 
 ## A1. Designing and Planning Learning Activities
 
@@ -54,6 +48,17 @@ I also encourage students to develop their own research questions and experiment
 ## A5. Engaging in Professional Development
 
 I am currently pursuing Duke University’s Certificate in College Teaching to develop formal pedagogical knowledge alongside my teaching experiences as a PhD student and teaching assistant (V3). As part of the certificate, I have completed coursework in teaching methods, observed experienced instructors, and participated in Teaching Triangles, in which peers observe my teaching and provide structured feedback (K3). These activities have encouraged me to critically reflect on my teaching practices, identify areas for improvement, and incorporate evidence-informed strategies into my future teaching.
+
+## Integrate & Reflect
+
+My philosophy of engineering education has been shaped by my academic experiences and by the practical challenges I encountered during five years in industry. I aim to equip students with the knowledge and skills needed to address real-world biomedical engineering problems through project-based learning. At the same time, I use the academic environment to cultivate curiosity, encourage thoughtful investigation, and help students develop a theoretical foundation.
+As a PhD candidate in Biomedical Engineering, I have taught and mentored undergraduate students through engineering and science courses, independent research projects, and design experiences. These roles have helped me connect technical instruction with collaborative problem-solving, inclusive mentorship, and meaningful feedback. Together, these experiences inform my commitment to practical, reflective, and student-centered engineering education. I strive to create learning environments in which students can build confidence, connect theory to practice, and develop the independence needed to become thoughtful and responsible engineers and lifelong learners.
+
+## Looking Ahead
+
+Looking ahead, I hope to teach project-based engineering courses that connect students with clinicians, patients, and community partners to identify meaningful, locally relevant problems. Rather than beginning with a predetermined device or technology, students would engage directly with stakeholders to understand their needs, constraints, and lived experiences. They would then translate these insights into design requirements and develop solutions that are technically feasible, clinically appropriate, and responsive to the communities they serve.
+Drawing on my background in biomedical research, medical-device development, and engineering design, I would guide students through the full design process—from problem definition and literature review to prototyping, testing, and communicating their results. I would emphasize iterative design, interdisciplinary collaboration, and feedback from end users and clinical experts. This approach would help students integrate engineering, biological, and human-centered perspectives while developing the problem-solving, communication, and teamwork skills needed for professional practice. 
+At any institution where I teach, I also hope to continue engaging with medical-device and education research so that my teaching remains informed by emerging developments in biomedical engineering and evidence-based pedagogy.
 <!-- Add your experience with Teaching Triangles, the Certificate for College Teaching, or other professional-development activities here. -->
 
 <!-- {% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
