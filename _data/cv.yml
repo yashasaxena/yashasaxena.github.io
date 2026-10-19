@@ -1,189 +1,333 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Yasha Saxena
+  label: PhD Candidate in Biomedical Engineering | Biomedical Engineering Educator
+  email: yasha.saxena@duke.edu
+  location: Durham, NC
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
     - network: LinkedIn
-      username: example
+      username: yasha.saxena-702b12240
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
+    city: Durham
+    region: North Carolina
     countryCode: US
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
+      - institution: Duke University
+        location: Durham, NC
+        area: Biomedical Engineering
         studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
+        start_date: "2022"
+        end_date: "2027"
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Expected May 2027"
+          - "Research focus: microarchitectural variation in tissue-engineering materials and its effects on cellular behavior"
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: Duke University
+        location: Durham, NC
+        area: Mechanical Engineering and Materials Science
+        studyType: MS
+        start_date: "2022"
+        end_date: "2027"
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Expected May 2027"
 
-    Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - institution: Duke University
+        location: Durham, NC
+        area: Artificial Intelligence for Materials Science
+        studyType: Certificate
+
+      - institution: Duke University
+        location: Durham, NC
+        area: Biomedical Engineering
+        studyType: MS
+        end_date: "2016"
+
+      - institution: Northwestern University
+        location: Evanston, IL
+        area: Economics
+        studyType: BA
+        end_date: "2013"
         highlights:
-          - Relativity
-          - Description 2.
+          - "Minors in Mathematics and Business"
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+    Teaching Experience:
+      - company: Duke University
+        position: Teaching Assistant, BME 254L: MedTech Prototyping Skills
+        location: Durham, NC
+        start_date: "2026-08"
+        end_date: Present
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Supported students with assignments and laboratory activities involving CAD design, printed-circuit-board fabrication, and medical-device prototyping, testing, and assembly"
+          - "Graded and troubleshot engineering assignments"
+          - "Provided technical support for medical-device projects during class and laboratory sections"
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+      - company: Duke University
+        position: Teaching Assistant, BME 728–729S: BME TA Seminar I & II
+        location: Durham, NC
+        start_date: "2024-08"
+        end_date: "2025-12"
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - "Co-led a professional-development seminar for first- and second-time Biomedical Engineering teaching assistants"
+          - "Guided students through teaching responsibilities, requirements, and expectations"
+          - "Designed the course syllabus and organized weekly sessions, including guest lectures and structured, discussion-based seminars"
+          - "Reviewed and responded to students’ weekly reflections, providing individualized guidance and feedback"
+          - "Coordinated weekly meals within an allocated budget to support participation and community-building during seminar sessions"
 
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+      - company: Duke University
+        position: Teaching Assistant, BME 590L: Machine Learning in Pharmacology
+        location: Durham, NC
+        start_date: "2023-08"
+        end_date: Present
+        highlights:
+          - "Supported students in processing pharmacological datasets and developing machine-learning algorithms for drug discovery"
+          - "Evaluated students’ problem-set Jupyter notebooks, providing feedback on code functionality, analytical approach, and consistency between outputs and expected results"
+          - "Assessed final projects in which students proposed and implemented original machine-learning models to address pharmacological research questions"
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+      - company: Duke University
+        position: Teaching Assistant, BME 244L: Quantitative Physiology with Biostatistical Applications
+        location: Durham, NC
+        start_date: "2022-08"
+        end_date: Present
+        highlights:
+          - "Taught foundational statistical concepts during weekly discussion sections, preparing students to analyze physiological data collected in laboratory exercises"
+          - "Supported laboratory activities involving the collection of physiological data from human participants and ex vivo specimens using data-acquisition equipment"
+          - "Evaluated detailed laboratory reports using comprehensive rubrics developed in collaboration with the course instructor and teaching team"
+          - "Advised students during office hours on statistical concepts, problem sets, and data-analysis approaches"
 
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+    Mentoring Experience:
+      - company: Duke University, Segura Lab
+        position: Graduate Student Mentor, Undergraduate Independent Study Projects
+        location: Durham, NC
+        start_date: "2022"
+        end_date: Present
+        highlights:
+          - "Mentored undergraduate students completing semester-long independent research projects related to tissue-engineering materials"
+          - "Guided students in experimental and computational methods through observation, supervised practice, and independent work"
+          - "Supported research-question development, experimental planning, project management, and timeline development"
+          - "Provided feedback on scientific abstracts, presentations, and posters"
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+      - company: Duke University
+        position: Graduate Student Mentor, Undergraduate Engineering Design Project
+        location: Durham, NC
+        highlights:
+          - "Mentored a two-semester undergraduate engineering design project focused on developing a drone-based device for rainforest conservation"
+          - "Helped students establish project goals, align their work with those goals, allocate tasks, manage timelines, and troubleshoot technical challenges"
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+    Teaching Professional Development:
+      - company: Duke University
+        position: Certificate in College Teaching
+        location: Durham, NC
+        start_date: "2025"
+        end_date: Present
+        highlights:
+          - "Completing formal coursework in college teaching and participating in peer teaching observations through Teaching Triangles"
+          - "Developing evidence-informed approaches to teaching, assessment, feedback, and learner support"
 
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+    Research Experience:
+      - company: Duke University, Segura Lab
+        position: Graduate Research Assistant
+        location: Durham, NC
+        start_date: "2022-08"
+        end_date: Present
+        highlights:
+          - "Investigating the effects of material structure on cellular behavior in granular hydrogel wound-healing materials"
+          - "Developing computational models for structure–function analysis in granular tissue-engineering materials"
+          - "Developed a computational approach to characterize and identify three-dimensional pore shapes in granular tissue-engineering materials"
+          - "Developed an inverse-design model to select granular hydrogel design parameters for specific drug-release kinetics"
 
-    Languages:
-      - name: German
-        summary: "Native speaker"
+    Professional Experience:
+      - company: Kardigan Bio
+        position: Translational Research Intern
+        location: South San Francisco, CA
+        start_date: "2026-05"
+        end_date: "2026-08"
+        highlights:
+          - "Tested a therapeutic for calcified aortic valve stenosis using a disease-model system with heart valve cells seeded in a PEG–collagen hydrogel"
+          - "Designed and 3D-printed a test fixture to image 18 gels simultaneously in a micro-CT scanner, reducing imaging time by six hours"
+          - "Quantified micron-scale calcification in hydrogels through a micro-CT image-analysis pipeline"
 
-      - name: English
-        summary: "Fluent"
+      - company: CoVar
+        position: Machine Learning Engineer Intern
+        location: Durham, NC
+        start_date: "2025-05"
+        end_date: "2025-08"
+        highlights:
+          - "Developed computer-vision and machine-learning models for time-resolved three-dimensional reconstruction and classification of aerial objects"
+          - "Applied Hidden Markov Models to animated 3D CAD data to classify deformable aerial objects"
+          - "Created 3D animations in Blender to generate synthetic datasets for model training and validation"
+          - "Applied normalization and camera transformations to reconstruct geometrically accurate 4D point clouds from RGB-D video"
 
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - company: Asensus Surgical
+        position: R&D Product Development Engineer
+        location: Durham, NC
+        start_date: "2022-01"
+        end_date: "2022-08"
+        highlights:
+          - "Prototyped surgeon-console designs for a robotic laparoscopic surgical system"
+          - "Designed and implemented a hand-tracking fixture integrating Valve Index controllers with ROS"
+          - "Conducted optical-tracking studies and developed signal-processing pipelines to evaluate latency and accuracy"
+
+      - company: Apple Inc.
+        position: Algorithm Quality Engineer
+        location: Durham, NC
+        start_date: "2019-07"
+        end_date: "2021-12"
+        highlights:
+          - "Authored test plans and defined quantitative performance specifications for touch-panel firmware algorithms"
+          - "Developed more than 50 Python unit tests to evaluate image quality and algorithm performance"
+          - "Designed and executed a user study to validate a critical post-release firmware update"
+          - "Created and maintained a weekly Tableau dashboard for visualizing unit-test results"
+
+      - company: University of California, San Francisco
+        position: Medical Device Engineer
+        location: San Francisco, CA
+        start_date: "2018-08"
+        end_date: "2019-06"
+        highlights:
+          - "Developed electronics for a force-sensitive resistor pressure-sensing mat to assess pressure-ulcer risk"
+          - "Miniaturized a fluidic pressure monitor onto a one-inch-square printed circuit board"
+          - "Designed an IRB-approved clinical study to collect emergency-department patient data using an acoustic pneumonia-detection prototype"
+          - "Developed a MySQL database hosted on Amazon Web Services to organize clinical data"
+
+      - company: Baebies
+        position: Systems Engineering Intern
+        location: Durham, NC
+        start_date: "2018-01"
+        end_date: "2018-05"
+        highlights:
+          - "Performed verification and validation testing of optical sensors in a digital microfluidic platform"
+          - "Developed Python tests to evaluate device hardware functionality"
+          - "Conducted statistical analyses to support regulatory documentation"
+
+      - company: Genentech
+        position: Pharma Technical Development Intern
+        location: South San Francisco, CA
+        start_date: "2017-05"
+        end_date: "2017-08"
+        highlights:
+          - "Developed a QR-code scanning system for laboratory reagents, reducing data-entry time by 84%"
+          - "Designed a magnetic extraction tool to remove metal contaminants from assay beads"
+          - "Performed colorimetric assays to detect endotoxins in drugs and devices"
+
+      - company: Workday
+        position: UX Product Management Intern
+        location: Pleasanton, CA
+        start_date: "2016-05"
+        end_date: "2016-08"
+        highlights:
+          - "Coordinated workflows between UX design and development teams"
+          - "Created internal documentation explaining a backend infrastructure enhancement"
+          - "Conducted user-experience research and competitive analysis"
+
+      - company: Gensler
+        position: Business Information Analyst
+        location: Chicago, IL
+        start_date: "2015-01"
+        end_date: "2015-07"
+        highlights:
+          - "Designed Tableau dashboards to visualize financial and productivity data"
+          - "Cleaned and transformed datasets using SQL"
+          - "Troubleshot Tableau issues and supported end users"
+
+      - company: Foote, Cone & Belding
+        position: Strategic Analytics Analyst
+        location: Chicago, IL
+        start_date: "2013-11"
+        end_date: "2014-12"
+        highlights:
+          - "Analyzed consumer data to inform marketing and product-development strategies"
+          - "Used Tableau and SQL to create interactive market-research visualizations"
 
     Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
+      - name: Certificate in College Teaching
+        issuer: Duke University
+        date: Present
 
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
+      - name: Certificate in AI for Materials Science
+        issuer: Duke University
 
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+      - name: Professional Certificate in Digital Signal Processing
+        issuer: UC San Diego Extension
+        date: "2021-03-01"
+        score: "4.00/4.00"
 
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+      - name: Premedical Studies Post-Baccalaureate Program
+        issuer: UC Berkeley Extension
+        date: "2016-07-01"
+        score: "4.00/4.00"
 
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+    Publications:
+      - title: "Zero-shot classification of articulating 4D aerial objects through a Markovian synthetic template-matching approach"
+        authors:
+          - Yasha Saxena
+          - N. Varberg
+          - K. Morton
+        publisher: "Synthetic Data for Artificial Intelligence and Machine Learning: Tools, Techniques, and Applications IV"
+        releaseDate: "2026-06"
+        summary: "SPIE, Volume 14029, page 82."
 
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - title: "Factorial data-driven inverse design of granular hydrogels for targeted therapeutic release"
+        authors:
+          - Yasha Saxena
+          - P.-A. Lin
+          - J. Shah
+          - T. Asamoah
+          - A. Jayaraman
+          - G. Arya
+          - T. Segura
+        publisher: "AI for Accelerated Materials Design Workshop, NeurIPS 2025"
+        releaseDate: "2025"
+
+      - title: "3D pore shape is predictable in randomly packed particle systems"
+        authors:
+          - Yasha Saxena
+          - L. Riley
+          - R. Wu
+          - M. S. Kabir
+          - A. Randles
+          - T. Segura
+        publisher: Matter
+        releaseDate: "2025"
+        summary: "Matter, Volume 8, Issue 12."
+
+    Skills:
+      - name: Computational Methods
+        icon: fa-solid fa-code
+        keywords:
+          - Python
+          - R
+          - MATLAB
+          - C++
+          - Git
+          - PyTorch
+
+      - name: Mechanical Design and Simulation
+        icon: fa-solid fa-gears
+        keywords:
+          - Onshape
+          - SolidWorks
+          - Fusion 360
+          - Blender
+
+      - name: Electronics Design and Testing
+        icon: fa-solid fa-microchip
+        keywords:
+          - KiCad
+          - Altium Designer
+          - Protoboarding
+          - Oscilloscopes
+          - Multimeters
+
+      - name: Laboratory Methods
+        icon: fa-solid fa-flask
+        keywords:
+          - Mammalian cell culture
+          - Hydrogel fabrication
+          - Polymer synthesis
+          - Microfluidics
+          - Confocal imaging
+          - Immunofluorescence staining
