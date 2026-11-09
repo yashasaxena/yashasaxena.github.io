@@ -55,192 +55,176 @@ cv:
           - "Minors in Mathematics and Business"
 
     Teaching Experience:
-      - company: Duke University
-        position: "Teaching Assistant, BME 254L: MedTech Prototyping Skills"
-        location: Durham, NC
-        start_date: "2026-08"
-        end_date: Present
-        highlights:
-          - "Supported students with assignments and laboratory activities involving CAD design, printed-circuit-board fabrication, and medical-device prototyping, testing, and assembly"
-          - "Graded and troubleshot engineering assignments"
-          - "Provided technical support for medical-device projects during class and laboratory sections"
+      - bullet: |
+          **Teaching Assistant, BME 254L: MedTech Prototyping Skills**
 
-      - company: Duke University
-        position: "Teaching Assistant, BME 728–729S: BME TA Seminar I & II"
-        location: Durham, NC
-        start_date: "2024-08"
-        end_date: "2025-12"
-        highlights:
-          - "Co-led a professional-development seminar for first- and second-time Biomedical Engineering teaching assistants"
-          - "Guided students through teaching responsibilities, requirements, and expectations"
-          - "Designed the course syllabus and organized weekly sessions, including guest lectures and structured, discussion-based seminars"
-          - "Reviewed and responded to students’ weekly reflections, providing individualized guidance and feedback"
-          - "Coordinated weekly meals within an allocated budget to support participation and community-building during seminar sessions"
+          Duke University | Durham, NC | 2026-08 – Present
 
-      - company: Duke University
-        position: "Teaching Assistant, BME 590L: Machine Learning in Pharmacology"
-        location: Durham, NC
-        start_date: "2023-08"
-        end_date: Present
-        highlights:
-          - "Supported students in processing pharmacological datasets and developing machine-learning algorithms for drug discovery"
-          - "Evaluated students’ problem-set Jupyter notebooks, providing feedback on code functionality, analytical approach, and consistency between outputs and expected results"
-          - "Assessed final projects in which students proposed and implemented original machine-learning models to address pharmacological research questions"
+          - Supported students with assignments and laboratory activities involving CAD design, printed-circuit-board fabrication, and medical-device prototyping, testing, and assembly
+          - Graded and troubleshot engineering assignments
+          - Provided technical support for medical-device projects during class and laboratory sections
 
-      - company: Duke University
-        position: "Teaching Assistant, BME 244L: Quantitative Physiology with Biostatistical Applications"
-        location: Durham, NC
-        start_date: "2022-08"
-        end_date: Present
-        highlights:
-          - "Taught foundational statistical concepts during weekly discussion sections, preparing students to analyze physiological data collected in laboratory exercises"
-          - "Supported laboratory activities involving the collection of physiological data from human participants and ex vivo specimens using data-acquisition equipment"
-          - "Evaluated detailed laboratory reports using comprehensive rubrics developed in collaboration with the course instructor and teaching team"
-          - "Advised students during office hours on statistical concepts, problem sets, and data-analysis approaches"
+      - bullet: |
+          **Teaching Assistant, BME 728–729S: BME TA Seminar I & II**
+
+          Duke University | Durham, NC | 2024-08 – 2025-12
+
+          - Co-led a professional-development seminar for first- and second-time Biomedical Engineering teaching assistants
+          - Guided students through teaching responsibilities, requirements, and expectations
+          - Designed the course syllabus and organized weekly sessions, including guest lectures and structured, discussion-based seminars
+          - Reviewed and responded to students’ weekly reflections, providing individualized guidance and feedback
+          - Coordinated weekly meals within an allocated budget to support participation and community-building during seminar sessions
+
+      - bullet: |
+          **Teaching Assistant, BME 590L: Machine Learning in Pharmacology**
+
+          Duke University | Durham, NC | 2023-08 – Present
+
+          - Supported students in processing pharmacological datasets and developing machine-learning algorithms for drug discovery
+          - Evaluated students’ problem-set Jupyter notebooks, providing feedback on code functionality, analytical approach, and consistency between outputs and expected results
+          - Assessed final projects in which students proposed and implemented original machine-learning models to address pharmacological research questions
+
+      - bullet: |
+          **Teaching Assistant, BME 244L: Quantitative Physiology with Biostatistical Applications**
+
+          Duke University | Durham, NC | 2022-08 – Present
+
+          - Taught foundational statistical concepts during weekly discussion sections, preparing students to analyze physiological data collected in laboratory exercises
+          - Supported laboratory activities involving the collection of physiological data from human participants and ex vivo specimens using data-acquisition equipment
+          - Evaluated detailed laboratory reports using comprehensive rubrics developed in collaboration with the course instructor and teaching team
+          - Advised students during office hours on statistical concepts, problem sets, and data-analysis approaches
 
     Mentoring Experience:
-      - company: Duke University, Segura Lab
-        position: Graduate Student Mentor, Undergraduate Independent Study Projects
-        location: Durham, NC
-        start_date: "2022"
-        end_date: Present
-        highlights:
-          - "Mentored undergraduate students completing semester-long independent research projects related to tissue-engineering materials"
-          - "Guided students in experimental and computational methods through observation, supervised practice, and independent work"
-          - "Supported research-question development, experimental planning, project management, and timeline development"
-          - "Provided feedback on scientific abstracts, presentations, and posters"
+      - bullet: |
+          **Graduate Student Mentor, Undergraduate Independent Study Projects**
 
-      - company: Duke University
-        position: Graduate Student Mentor, Undergraduate Engineering Design Project
-        location: Durham, NC
-        highlights:
-          - "Mentored a two-semester undergraduate engineering design project focused on developing a drone-based device for rainforest conservation"
-          - "Helped students establish project goals, align their work with those goals, allocate tasks, manage timelines, and troubleshoot technical challenges"
+          Duke University, Segura Lab | Durham, NC | 2022 – Present
+
+          - Mentored undergraduate students completing semester-long independent research projects related to tissue-engineering materials
+          - Guided students in experimental and computational methods through observation, supervised practice, and independent work
+          - Supported research-question development, experimental planning, project management, and timeline development
+          - Provided feedback on scientific abstracts, presentations, and posters
+
+      - bullet: |
+          **Graduate Student Mentor, Undergraduate Engineering Design Project**
+
+          Duke University | Durham, NC
+
+          - Mentored a two-semester undergraduate engineering design project focused on developing a drone-based device for rainforest conservation
+          - Helped students establish project goals, align their work with those goals, allocate tasks, manage timelines, and troubleshoot technical challenges
 
     Teaching Professional Development:
-      - company: Duke University
-        position: Certificate in College Teaching
-        location: Durham, NC
-        start_date: "2025"
-        end_date: Present
-        highlights:
-          - "Completing formal coursework in college teaching and participating in peer teaching observations through Teaching Triangles"
-          - "Developing evidence-informed approaches to teaching, assessment, feedback, and learner support"
+      - bullet: |
+          **Certificate in College Teaching**
+
+          Duke University | Durham, NC | 2025 – Present
+
+          - Completing formal coursework in college teaching and participating in peer teaching observations through Teaching Triangles
+          - Developing evidence-informed approaches to teaching, assessment, feedback, and learner support
 
     Research Experience:
-      - company: Duke University, Segura Lab
-        position: Graduate Research Assistant
-        location: Durham, NC
-        start_date: "2022-08"
-        end_date: Present
-        highlights:
-          - "Investigating the effects of material structure on cellular behavior in granular hydrogel wound-healing materials"
-          - "Developing computational models for structure–function analysis in granular tissue-engineering materials"
-          - "Developed a computational approach to characterize and identify three-dimensional pore shapes in granular tissue-engineering materials"
-          - "Developed an inverse-design model to select granular hydrogel design parameters for specific drug-release kinetics"
+      - bullet: |
+          **Graduate Research Assistant**
+
+          Duke University, Segura Lab | Durham, NC | 2022-08 – Present
+
+          - Investigating the effects of material structure on cellular behavior in granular hydrogel wound-healing materials
+          - Developing computational models for structure–function analysis in granular tissue-engineering materials
+          - Developed a computational approach to characterize and identify three-dimensional pore shapes in granular tissue-engineering materials
+          - Developed an inverse-design model to select granular hydrogel design parameters for specific drug-release kinetics
 
     Professional Experience:
-      - company: Kardigan Bio
-        position: Translational Research Intern
-        location: South San Francisco, CA
-        start_date: "2026-05"
-        end_date: "2026-08"
-        highlights:
-          - "Tested a therapeutic for calcified aortic valve stenosis using a disease-model system with heart valve cells seeded in a PEG–collagen hydrogel"
-          - "Designed and 3D-printed a test fixture to image 18 gels simultaneously in a micro-CT scanner, reducing imaging time by six hours"
-          - "Quantified micron-scale calcification in hydrogels through a micro-CT image-analysis pipeline"
+      - bullet: |
+          **Translational Research Intern**
 
-      - company: CoVar
-        position: Machine Learning Engineer Intern
-        location: Durham, NC
-        start_date: "2025-05"
-        end_date: "2025-08"
-        highlights:
-          - "Developed computer-vision and machine-learning models for time-resolved three-dimensional reconstruction and classification of aerial objects"
-          - "Applied Hidden Markov Models to animated 3D CAD data to classify deformable aerial objects"
-          - "Created 3D animations in Blender to generate synthetic datasets for model training and validation"
-          - "Applied normalization and camera transformations to reconstruct geometrically accurate 4D point clouds from RGB-D video"
+          Kardigan Bio | South San Francisco, CA | 2026-05 – 2026-08
 
-      - company: Asensus Surgical
-        position: R&D Product Development Engineer
-        location: Durham, NC
-        start_date: "2022-01"
-        end_date: "2022-08"
-        highlights:
-          - "Prototyped surgeon-console designs for a robotic laparoscopic surgical system"
-          - "Designed and implemented a hand-tracking fixture integrating Valve Index controllers with ROS"
-          - "Conducted optical-tracking studies and developed signal-processing pipelines to evaluate latency and accuracy"
+          - Tested a therapeutic for calcified aortic valve stenosis using a disease-model system with heart valve cells seeded in a PEG–collagen hydrogel
+          - Designed and 3D-printed a test fixture to image 18 gels simultaneously in a micro-CT scanner, reducing imaging time by six hours
+          - Quantified micron-scale calcification in hydrogels through a micro-CT image-analysis pipeline
 
-      - company: Apple Inc.
-        position: Algorithm Quality Engineer
-        location: Durham, NC
-        start_date: "2019-07"
-        end_date: "2021-12"
-        highlights:
-          - "Authored test plans and defined quantitative performance specifications for touch-panel firmware algorithms"
-          - "Developed more than 50 Python unit tests to evaluate image quality and algorithm performance"
-          - "Designed and executed a user study to validate a critical post-release firmware update"
-          - "Created and maintained a weekly Tableau dashboard for visualizing unit-test results"
+      - bullet: |
+          **Machine Learning Engineer Intern**
 
-      - company: University of California, San Francisco
-        position: Medical Device Engineer
-        location: San Francisco, CA
-        start_date: "2018-08"
-        end_date: "2019-06"
-        highlights:
-          - "Developed electronics for a force-sensitive resistor pressure-sensing mat to assess pressure-ulcer risk"
-          - "Miniaturized a fluidic pressure monitor onto a one-inch-square printed circuit board"
-          - "Designed an IRB-approved clinical study to collect emergency-department patient data using an acoustic pneumonia-detection prototype"
-          - "Developed a MySQL database hosted on Amazon Web Services to organize clinical data"
+          CoVar | Durham, NC | 2025-05 – 2025-08
 
-      - company: Baebies
-        position: Systems Engineering Intern
-        location: Durham, NC
-        start_date: "2018-01"
-        end_date: "2018-05"
-        highlights:
-          - "Performed verification and validation testing of optical sensors in a digital microfluidic platform"
-          - "Developed Python tests to evaluate device hardware functionality"
-          - "Conducted statistical analyses to support regulatory documentation"
+          - Developed computer-vision and machine-learning models for time-resolved three-dimensional reconstruction and classification of aerial objects
+          - Applied Hidden Markov Models to animated 3D CAD data to classify deformable aerial objects
+          - Created 3D animations in Blender to generate synthetic datasets for model training and validation
+          - Applied normalization and camera transformations to reconstruct geometrically accurate 4D point clouds from RGB-D video
 
-      - company: Genentech
-        position: Pharma Technical Development Intern
-        location: South San Francisco, CA
-        start_date: "2017-05"
-        end_date: "2017-08"
-        highlights:
-          - "Developed a QR-code scanning system for laboratory reagents, reducing data-entry time by 84%"
-          - "Designed a magnetic extraction tool to remove metal contaminants from assay beads"
-          - "Performed colorimetric assays to detect endotoxins in drugs and devices"
+      - bullet: |
+          **R&D Product Development Engineer**
 
-      - company: Workday
-        position: UX Product Management Intern
-        location: Pleasanton, CA
-        start_date: "2016-05"
-        end_date: "2016-08"
-        highlights:
-          - "Coordinated workflows between UX design and development teams"
-          - "Created internal documentation explaining a backend infrastructure enhancement"
-          - "Conducted user-experience research and competitive analysis"
+          Asensus Surgical | Durham, NC | 2022-01 – 2022-08
 
-      - company: Gensler
-        position: Business Information Analyst
-        location: Chicago, IL
-        start_date: "2015-01"
-        end_date: "2015-07"
-        highlights:
-          - "Designed Tableau dashboards to visualize financial and productivity data"
-          - "Cleaned and transformed datasets using SQL"
-          - "Troubleshot Tableau issues and supported end users"
+          - Prototyped surgeon-console designs for a robotic laparoscopic surgical system
+          - Designed and implemented a hand-tracking fixture integrating Valve Index controllers with ROS
+          - Conducted optical-tracking studies and developed signal-processing pipelines to evaluate latency and accuracy
 
-      - company: Foote, Cone & Belding
-        position: Strategic Analytics Analyst
-        location: Chicago, IL
-        start_date: "2013-11"
-        end_date: "2014-12"
-        highlights:
-          - "Analyzed consumer data to inform marketing and product-development strategies"
-          - "Used Tableau and SQL to create interactive market-research visualizations"
+      - bullet: |
+          **Algorithm Quality Engineer**
+
+          Apple Inc. | Durham, NC | 2019-07 – 2021-12
+
+          - Authored test plans and defined quantitative performance specifications for touch-panel firmware algorithms
+          - Developed more than 50 Python unit tests to evaluate image quality and algorithm performance
+          - Designed and executed a user study to validate a critical post-release firmware update
+          - Created and maintained a weekly Tableau dashboard for visualizing unit-test results
+
+      - bullet: |
+          **Medical Device Engineer**
+
+          University of California, San Francisco | San Francisco, CA | 2018-08 – 2019-06
+
+          - Developed electronics for a force-sensitive resistor pressure-sensing mat to assess pressure-ulcer risk
+          - Miniaturized a fluidic pressure monitor onto a one-inch-square printed circuit board
+          - Designed an IRB-approved clinical study to collect emergency-department patient data using an acoustic pneumonia-detection prototype
+          - Developed a MySQL database hosted on Amazon Web Services to organize clinical data
+
+      - bullet: |
+          **Systems Engineering Intern**
+
+          Baebies | Durham, NC | 2018-01 – 2018-05
+
+          - Performed verification and validation testing of optical sensors in a digital microfluidic platform
+          - Developed Python tests to evaluate device hardware functionality
+          - Conducted statistical analyses to support regulatory documentation
+
+      - bullet: |
+          **Pharma Technical Development Intern**
+
+          Genentech | South San Francisco, CA | 2017-05 – 2017-08
+
+          - Developed a QR-code scanning system for laboratory reagents, reducing data-entry time by 84%
+          - Designed a magnetic extraction tool to remove metal contaminants from assay beads
+          - Performed colorimetric assays to detect endotoxins in drugs and devices
+
+      - bullet: |
+          **UX Product Management Intern**
+
+          Workday | Pleasanton, CA | 2016-05 – 2016-08
+
+          - Coordinated workflows between UX design and development teams
+          - Created internal documentation explaining a backend infrastructure enhancement
+          - Conducted user-experience research and competitive analysis
+
+      - bullet: |
+          **Business Information Analyst**
+
+          Gensler | Chicago, IL | 2015-01 – 2015-07
+
+          - Designed Tableau dashboards to visualize financial and productivity data
+          - Cleaned and transformed datasets using SQL
+          - Troubleshot Tableau issues and supported end users
+
+      - bullet: |
+          **Strategic Analytics Analyst**
+
+          Foote, Cone & Belding | Chicago, IL | 2013-11 – 2014-12
+
+          - Analyzed consumer data to inform marketing and product-development strategies
+          - Used Tableau and SQL to create interactive market-research visualizations
 
     Certificates:
       - name: Certificate in College Teaching
