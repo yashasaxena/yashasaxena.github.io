@@ -9,6 +9,7 @@ profile:
   image: SaxenaYasha_ProfilePic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>Email: yasha.saxena@duke.edu</p>
     <p>Duke University, Wilkinson Rm 330</p>
     <p>534 Research Drive</p>
     <p>Durham, NC 27705</p>
